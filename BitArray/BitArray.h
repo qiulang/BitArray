@@ -16,4 +16,4 @@ FOUNDATION_EXPORT const unsigned char BitArrayVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <BitArray/PublicHeader.h>
 
-
+#import "QLSimpleBitArray.h"
