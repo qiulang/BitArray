@@ -1,9 +1,9 @@
 //
 //  QLSimpleBitArray.m
-//  CellTest
+//  A simple BitArray for bitwise operation
 //
 //  Created by 邱 朗 on 8/20/13.
-//  Copyright (c) 2013 邱 朗. All rights reserved.
+//  Copyright (c) 2013 邱 朗. Do whatever you want.
 //
 
 #import "QLSimpleBitArray.h"

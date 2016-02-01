@@ -3,7 +3,7 @@
 //  BitArray
 //
 //  Created by 邱 朗 on 16/1/29.
-//  Copyright © 2016年 邱 朗. All rights reserved.
+//  Copyright © 2016年 邱 朗. Do whatever you want.
 //
 
 #import <UIKit/UIKit.h>
